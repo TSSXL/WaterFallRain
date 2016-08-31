@@ -1,4 +1,4 @@
-http://sipeng.net/
+http://sipeng.net/news/show-150.html
 
 插件使用-------------------------------------
 
