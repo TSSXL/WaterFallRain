@@ -3,8 +3,11 @@ http://sipeng.net/
 插件使用-------------------------------------
 
 1>引入Waterfall.js文件
+
 2>调用waterfa.open()方法
+
 3>参数
+
  	调用方式(参数可均可选)
   	waterfall.open({
  		text:'显示的文字',
