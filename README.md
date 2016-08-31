@@ -4,7 +4,7 @@ http://sipeng.net/
 
 1>引入Waterfall.js文件
 
-2>调用waterfa.open()方法
+2>调用waterfall.open()方法
 
 3>参数
 
