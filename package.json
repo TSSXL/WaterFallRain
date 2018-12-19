@@ -1,0 +1,24 @@
+{
+  "name": "Waterfall rain",
+  "version": "1.0.9",
+  "description": "pure javascript write waterfall rain",
+  "main": "WaterFallRain.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fanmingfei/array-reverse-ios12.git"
+  },
+  "keywords": [
+    "waterfall",
+    "canvas-waterfall-rain",
+    "the matrix"
+  ],
+  "author": "sun sipeng",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunsipeng/WaterFallRain/issues"
+  },
+  "homepage": "https://github.com/sunsipeng/WaterFallRain#readme"
+}
