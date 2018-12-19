@@ -1,4 +1,5 @@
-http://sipeng.net/news/show-150.html
+#### Example 
+http://sipeng.net/yanshi/WaterFallRain-master/index.html
 
 插件使用-------------------------------------
 
